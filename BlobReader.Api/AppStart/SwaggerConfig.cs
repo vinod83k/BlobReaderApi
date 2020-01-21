@@ -26,8 +26,7 @@ namespace BlobReader.Api.AppStart
                     Contact = new OpenApiContact
                     {
                         Name = "Blob Reader",
-                        Email = string.Empty,
-                        //Url = new Uri("https://rentfrockrepeat.com/")
+                        Email = string.Empty
                     },
                     License = new OpenApiLicense
                     {
